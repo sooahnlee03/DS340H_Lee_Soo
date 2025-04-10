@@ -3,7 +3,6 @@ This repository contains data, code, and poster files of my 2025 Data Science Ca
 In this research project, we observe the 2024 Bluebike Trips, 2024 Bluebike Stations, and 2024 City of Boston Bike Networks.
 
 Access to Data
--
 2024 Bluebike Trips:
 - Please download the 2024 trip data from Jan-Dec.
 - Source: https://s3.amazonaws.com/hubway-data/index.html
@@ -13,7 +12,7 @@ Access to Data
 - -External-_Bluebikes_Station_List.csv
 - Source: https://bluebikes.com/system-data
 
--
+
 2024 City of Boston Bike Networks
 - existing_bike_network_2024.csv
 - Source: https://data.boston.gov/dataset/existing-bike-network-2024
@@ -22,7 +21,6 @@ Access to Data
 
 
 Potential Python Package Installation Codes to Run
--
 - pip install pandas
 - pip install numpy
 - pip install matplotlib
