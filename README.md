@@ -7,11 +7,9 @@ Access to Data
 - Please download the 2024 trip data from Jan-Dec.
 - Source: https://s3.amazonaws.com/hubway-data/index.html
 
--
 2024 Bluebike Stations
 - -External-_Bluebikes_Station_List.csv
 - Source: https://bluebikes.com/system-data
-
 
 2024 City of Boston Bike Networks
 - existing_bike_network_2024.csv
